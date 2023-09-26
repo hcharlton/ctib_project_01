@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1695729361 "/Users/chcharlton/Aarhus/Fall23/CTiB/project_01/project_01.tex" "/Users/chcharlton/Aarhus/Fall23/CTiB/project_01/project_01.pdf" "project_01" 1695730073
+["pdflatex"] 1695729361 "/Users/chcharlton/Aarhus/Fall23/CTiB/project_01/project_01.tex" "/Users/chcharlton/Aarhus/Fall23/CTiB/project_01/project_01.pdf" "project_01" 1695730633
   "/Users/chcharlton/Aarhus/Fall23/CTiB/project_01/project_01.aux" 1695729362 208 b7d25ffd7c6a90abbaaabffbc9d05d0b ""
   "/Users/chcharlton/Aarhus/Fall23/CTiB/project_01/project_01.tex" 1695729360 2900 0ebcedcfc73f20a2ca4235d192902916 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -80,8 +80,8 @@
   "project_01.aux" 1695729362 208 b7d25ffd7c6a90abbaaabffbc9d05d0b "pdflatex"
   "project_01.tex" 1695729360 2900 0ebcedcfc73f20a2ca4235d192902916 ""
   (generated)
-  "project_01.aux"
-  "project_01.pdf"
-  "/Users/chcharlton/Aarhus/Fall23/CTiB/project_01/project_01.pdf"
   "/Users/chcharlton/Aarhus/Fall23/CTiB/project_01/project_01.log"
+  "project_01.aux"
   "project_01.log"
+  "/Users/chcharlton/Aarhus/Fall23/CTiB/project_01/project_01.pdf"
+  "project_01.pdf"
