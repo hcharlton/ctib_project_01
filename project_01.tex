@@ -51,7 +51,7 @@ are denoted as comments. We then use this function on further calculations on co
     return z # not counted (output)
 \end{lstlisting}
 The total primitive operations are  $8n + 6m + 5$. Let $f(n,m) = 8n + 6m + 5$ and 
-$g(n,m) = n + m$. To show that $f(n,m) \in g(n,m)$, we must show that there exists 
+$g(n,m) = n + m$. To show that $f(n,m) \in O(g(n,m))$, we must show that there exists 
 some real constant $c > 0$ such that for some $n_0,m_0 \geq 1$ it is true that 
 $f(n,m) \leq c \cdot g(n,m)$ for every integer $n \geq n_0$. 
 \begin{align*}
